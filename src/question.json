@@ -1,0 +1,87 @@
+[
+  {
+    "question": "What does JSX stand for?",
+    "options": ["JavaScript XML", "JSON XML", "Java XML", "JavaScript X"],
+    "answer": "JavaScript XML"
+  },
+  {
+    "question": "Which hook is used for state management in React?",
+    "options": ["useEffect", "useState", "useContext", "useReducer"],
+    "answer": "useState"
+  },
+  {
+    "question": "What is the purpose of the 'useEffect' hook?",
+    "options": [
+      "To manage state",
+      "To handle side effects",
+      "To create components",
+      "To manage dependencies"
+    ],
+    "answer": "To handle side effects"
+  },
+  {
+    "question": "Which method is used to update the state in React?",
+    "options": ["setState", "updateState", "modifyState", "changeState"],
+    "answer": "setState"
+  },
+  {
+    "question": "What is the purpose of the 'useContext' hook?",
+    "options": [
+      "To manage state",
+      "To handle side effects",
+      "To create components",
+      "To manage dependencies"
+    ],
+    "answer": "To manage dependencies"
+  },
+  {
+    "question": "What is the purpose of the 'useReducer' hook?",
+    "options": [
+      "To manage state",
+      "To handle side effects",
+      "To create components",
+      "To manage dependencies"
+    ],
+    "answer": "To manage dependencies"
+  },
+  {
+    "question": "What is the purpose of the 'useRef' hook?",
+    "options": [
+      "To manage state",
+      "To handle side effects",
+      "To create components",
+      "To manage dependencies"
+    ],
+    "answer": "To manage dependencies"
+  },
+  {
+    "question": "What is the purpose of the 'useMemo' hook?",
+    "options": [
+      "To manage state",
+      "To handle side effects",
+      "To create components",
+      "To manage dependencies"
+    ],
+    "answer": "To manage dependencies"
+  },
+  {
+    "question": "What is the purpose of the 'useCallback' hook?",
+    "options": [
+      "To manage state",
+      "To handle side effects",
+      "To create components",
+      "To manage dependencies"
+    ],
+    "answer": "To manage dependencies"
+  },
+  {
+    "question": "What is the purpose of the 'useLayoutEffect' hook?",
+    "options": [
+      "To manage state",
+      "To handle side effects",
+      "To create components",
+      "To manage dependencies"
+    ],
+    "answer": "To manage dependencies"
+  }
+]
